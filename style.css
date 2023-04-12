@@ -68,4 +68,12 @@ input:focus{
     justify-content: space-between;
   }
 
+  a {
+    color: #fff;
+  }
+
+  .ul-links {
+    margin-top: 1rem;
+    padding: 1rem;
+  }
   
